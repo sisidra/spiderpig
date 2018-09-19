@@ -1,0 +1,36 @@
+img.spiderpig {
+	width: 100px;
+	height: 64px;
+	position: absolute;
+	z-index: 2;
+  border: none;
+}
+img.spiderpigtrack {
+	width: 10px;
+	height: 9px;
+	position: absolute;
+	z-index: 1;
+  border: none;
+}
+
+/*
+     FILE ARCHIVED ON 13:08:35 Oct 04, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:00:03 Sep 19, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 67.082 (3)
+  esindex: 0.008
+  captures_list: 87.016
+  CDXLines.iter: 13.697 (3)
+  PetaboxLoader3.datanode: 41.836 (4)
+  exclusion.robots: 0.465
+  exclusion.robots.policy: 0.45
+  RedisCDXSource: 2.838
+  PetaboxLoader3.resolve: 18.026
+  load_resource: 28.008
+*/
